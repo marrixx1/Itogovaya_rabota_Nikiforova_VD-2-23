@@ -1,0 +1,14 @@
+app/node_modules
+app/build
+**/node_modules
+**/build
+
+.git
+.gitignore
+README.md
+.env
+.DS_Store
+*.log
+
+.vscode
+.idea
